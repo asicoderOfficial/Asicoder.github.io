@@ -1,0 +1,47 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.menu {
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    background-color: #343a40;
+}
+
+.sections {
+    margin-top: 50%;
+    margin-bottom: 50%;
+    list-style-type: none;
+    text-transform: uppercase;
+    line-height: 250%;
+}
+
+.section_item {
+    letter-spacing: 0.05rem;
+}
+
+.attribute {
+    color: white;
+}
+
+.attribute:hover {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.profilebutton {
+    background-color: transparent;
+    border-radius: 50%;
+    border: none;
+}
+
+.profilephoto {
+    background-color: transparent;
+    border-radius: 50%;
+}
